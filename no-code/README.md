@@ -9,6 +9,7 @@ You'll use no-code tools (Notion, Carrd, Framer, or Super.so) and focus on conte
 
 * [ ] Upload a professional headshot (plain background, good lighting, natural smile).
 * [ ] If you don’t have one, generate with an AI headshot tool (ensure it looks realistic).
+* [ ] (Optional) Go and get a headshot taken from a professional studio.
 
 
 ### 🏷️ Headline & Tagline
