@@ -52,17 +52,6 @@ SDS-CP039-brandforge/
 
 ## 🎯 End Goal  
 
-By the end of this project, you'll have:  
-- A professional **LinkedIn profile** (Week 1 prep).  
-- A **live portfolio website** that showcases your skills and projects.  
-- A deeper understanding of how to present yourself online as a data/AI professional.
-├── CONTRIBUTING.md
-└── README.md       # (this file)
-
-```
-
-## 🎯 End Goal  
-
 By the end of this project, you’ll have:  
 - A professional **LinkedIn profile** (Week 1 prep).  
 - A **live portfolio website** that showcases your skills and projects.  
