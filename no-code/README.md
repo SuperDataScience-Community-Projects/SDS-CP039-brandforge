@@ -1,7 +1,7 @@
-# 🟢 Pathway 1 — No-Code (Notion / Carrd / Framer / Super.so)
+# 🟢 Pathway 1 — No-Code (Notion / Wix / Canva / WordPress / Squarespace)
 
 This pathway is for beginners or anyone who wants a **professional portfolio website live quickly without coding**.  
-You'll use no-code tools (Notion, Carrd, Framer, or Super.so) and focus on content, branding, and presentation.  
+You'll use no-code tools (Notion, Wix, Canva, WordPress, or Squarespace) and focus on content, branding, and presentation.  
 
 ## ✅ **Week 1: Build Your LinkedIn Profile**
 
@@ -90,7 +90,7 @@ Please generate 3 variations of a concise, professional bullet point for my Link
 
 ### **Step 1: Choose Your Platform**
 
-Pick one of these four approaches:
+Pick one of these approaches:
 
 #### **Option A: Google Firebase Studio (AI-Powered)**
 **Who it's for:** Those who want to learn AI-powered development with step-by-step guidance.  
@@ -106,17 +106,27 @@ This comprehensive lab covers everything from setup to deployment. Follow along 
 **What you get:** A database-driven portfolio that's easy to update.  
 **Cost:** Super.so starts at $12/month for custom domains.
 
-#### **Option C: Carrd**
-**Who it's for:** Those who want maximum customization with minimal complexity.  
-**What you get:** Highly customizable single-page sites with great mobile responsiveness.  
-**Cost:** Free plan available, Pro starts at $19/year.
+#### **Option C: Wix**
+**Who it's for:** Those who want drag-and-drop simplicity with powerful design flexibility.  
+**What you get:** Professional templates with built-in SEO tools and mobile optimization.  
+**Cost:** Free plan available with Wix branding, Premium plans start at $14/month.
 
-#### **Option D: Framer**
-**Who it's for:** Design-focused individuals who want beautiful animations and interactions.  
-**What you get:** Designer-quality websites with built-in animations.  
-**Cost:** Free plan available, Pro starts at $5/month.
+#### **Option D: Canva**
+**Who it's for:** Design-focused individuals who want beautiful, template-based websites.  
+**What you get:** Stunning visual designs with easy customization and brand consistency.  
+**Cost:** Free plan available, Pro starts at $12.99/month.
 
-### **Step 2: Build Your Content (For Options B, C, D)**
+#### **Option E: WordPress**
+**Who it's for:** Those who want maximum customization and scalability with AI assistance.  
+**What you get:** Powerful CMS with thousands of themes and plugins, plus AI-powered design tools.  
+**Cost:** Free plan available, Premium plans start at $4/month.
+
+#### **Option F: Squarespace**
+**Who it's for:** Creative professionals who want award-winning design templates.  
+**What you get:** Premium design quality with built-in e-commerce and analytics.  
+**Cost:** Plans start at $16/month (annual billing).
+
+### **Step 2: Build Your Content (For Options B, C, D, E, F)**
 
 *Skip this step if you chose Google Firebase - the lab covers content creation*
 
@@ -161,9 +171,12 @@ Please generate a 150–200 word case study in Context → Approach → Results 
 ### **💡 Inspiration & Examples**
 Before you start building, check out these portfolio sites created with the same no-code tools. Use them as references for layout, structure, and content ideas.
 
+- **Squarespace** -> [Beautiful Portfolio Templates](https://www.squarespace.com/templates/browse/topic/popular-designs/type/portfolio)
+- **Wix.com** -> [Wix Portfolio Templates](https://www.wix.com/website/templates/html/portfolio-cv/portfolios)
+- **WordPress** -> [WordPress portfolio templates](https://wordpress.com/themes/filter/subject:portfolio) You can actually build websites with WordPress alongside their finetuned LLM built for website design. This is super powerful but you might end up paying a little because of the amount of work required to build a good website with LLMs.
+- **Canva** -> [Canva templates](https://www.canva.com/templates/s/portfolio/)
 - **Notion + Super.so** -> [Explore Notion portfolio templates](https://www.notion.com/templates/category/portfolio?srsltid=AfmBOoo_ed__DvDOG9Ps3IJA9qhWYQHI3bmX7sZtqa4TyMkjfB_vAI0Z)
-- **Carrd** -> [Explore Carrd portfolio templates](https://carrd.co/build#portfolio)
-- **Framer** -> [Explore Framer portfolio templates](https://www.framer.com/marketplace/templates/category/portfolio/)
+
 
 👉 Tip: Don't copy directly. Instead, note what you like about their **layout, storytelling, or visuals** and adapt it to your own brand.
 
@@ -193,13 +206,25 @@ Please generate 5 headline + tagline options (≤15 words each).
   - Set up your Notion workspace and create your portfolio pages
   - Connect to Super.so (don't publish yet - save for Week 3)
   
-- **Carrd**  
-  - Build your site using Carrd's editor
-  - Preview and iterate on design (don't publish yet - save for Week 3)
+- **Wix**  
+  - Choose a portfolio template from Wix's gallery
+  - Customize using the drag-and-drop editor
+  - Add your content and optimize for mobile (don't publish yet - save for Week 3)
   
-- **Framer**  
-  - Create your portfolio in Framer's designer
-  - Test interactions and animations (don't publish yet - save for Week 3)
+- **Canva**  
+  - Select a website template from Canva's portfolio collection
+  - Customize design elements, colors, and typography
+  - Upload your content and images (don't publish yet - save for Week 3)
+
+- **WordPress**  
+  - Choose a portfolio theme from WordPress.com
+  - Use the block editor or AI assistant to build your pages
+  - Install necessary plugins for contact forms and SEO (don't publish yet - save for Week 3)
+
+- **Squarespace**  
+  - Select a designer template from Squarespace's portfolio collection
+  - Customize using the Style Editor and page builder
+  - Add content and configure mobile settings (don't publish yet - save for Week 3)
 
 ### **Checklist Before Week 3**
 - [ ] Site content is complete and proofread
@@ -217,12 +242,14 @@ Please generate 5 headline + tagline options (≤15 words each).
 ### **Option 1: Use Free Subdomain (fastest)**
 Each platform provides a free subdomain:
 - **Notion + Super.so** → `yoursite.super.site`
-- **Carrd** → `yoursite.carrd.co`
-- **Framer** → `yoursite.framer.website`
+- **Wix** → `yoursite.wixsite.com`
+- **Canva** → `yoursite.my.canva.site`
+- **WordPress** → `yoursite.wordpress.com`
+- **Squarespace** → `yoursite.squarespace.com`
 
 ### **Option 2: Buy & Connect a Custom Domain (recommended for professionalism)**
 **Step 1: Buy a domain**  
-- Popular registrars: [Namecheap](https://www.namecheap.com/), [Google Domains](https://domains.google), [GoDaddy](https://www.godaddy.com/).  
+- Popular registrars: [Namecheap](https://www.namecheap.com/), [CloudFlare](https://www.cloudflare.com/en-gb/) (recommended) 
 - Pick something short and clean (e.g., `firstname-lastname.com` or `firstnameai.com`).  
 
 **Step 2: Access DNS Settings**  
@@ -230,8 +257,10 @@ Each platform provides a free subdomain:
 
 **Step 3: Connect to your platform**  
 - **Super.so (Notion)** → Add CNAME and A records (instructions in Super's dashboard).  
-- **Carrd Pro** → Add CNAME record pointing to `carrd.co`.  
-- **Framer** → Add CNAME pointing to `proxy.framer.website` (details in Framer dashboard).  
+- **Wix** → Add CNAME record or change nameservers (instructions in Wix dashboard).  
+- **Canva** → Connect domain through Canva's domain settings (Pro plan required).
+- **WordPress** → Add CNAME record or change nameservers (instructions in WordPress dashboard).
+- **Squarespace** → Add CNAME records pointing to Squarespace servers (details in Squarespace dashboard).
 
 **Step 4: Enable HTTPS**  
 - After DNS updates (may take 15–60 minutes), check your platform dashboard to verify SSL/HTTPS is enabled.  
@@ -243,16 +272,29 @@ Each platform provides a free subdomain:
   - Choose free subdomain or connect your custom domain by adding DNS records.  
   - Verify HTTPS lock is active.  
 
-- **Carrd**  
-  - Click *Publish*.  
-  - Choose free subdomain or connect custom domain (requires Carrd Pro).  
-  - Update DNS settings with your registrar (instructions in Carrd dashboard).  
-  - Confirm site is mobile responsive.  
+- **Wix**  
+  - Click *Publish* in the editor.  
+  - Choose free subdomain or connect custom domain (requires Premium plan).  
+  - Follow Wix's domain connection wizard for DNS setup.  
+  - Confirm site is mobile responsive using Wix's mobile editor.
 
-- **Framer**  
-  - Click *Publish*.  
-  - Choose free subdomain or connect custom domain via DNS.  
-  - Add DNS records from Framer dashboard to your registrar.  
+- **Canva**  
+  - Click *Publish* in the website editor.
+  - Choose free subdomain or connect custom domain (requires Canva Pro).
+  - Add DNS records as instructed in Canva's domain settings.
+  - Test mobile responsiveness using Canva's preview feature.
+
+- **WordPress**  
+  - Click *Launch* or *Publish* in your WordPress dashboard.
+  - Choose free subdomain or connect custom domain via domain mapping.
+  - Configure DNS settings through WordPress.com's domain management.
+  - Verify mobile optimization using WordPress's mobile preview.
+
+- **Squarespace**  
+  - Click *Publish* in the Squarespace editor.
+  - Choose trial domain or connect custom domain (requires paid plan).
+  - Add CNAME records from Squarespace dashboard to your registrar.
+  - Test responsive design using Squarespace's device preview.
 
 ### **Step 2: Final Quality Check**
 - [ ] Site is mobile-friendly on at least 3 breakpoints.  
@@ -287,6 +329,6 @@ Please draft an engaging post suitable for recruiters and data professionals.
 - [ ] Live portfolio URL.  
 - [ ] Screenshots of Home, About, Projects, Contact pages.  
 - [ ] README with:
-  - Platform used  
+  - Platform used (Notion+Super.so, Wix, Canva, WordPress, or Squarespace)
   - 3 highlights (content, design, branding)  
   - Future improvements
