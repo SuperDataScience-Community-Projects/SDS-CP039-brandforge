@@ -7,6 +7,21 @@ We're not collaborating on one shared site — instead, everyone follows a struc
 
 Your website will become your **digital business card**: a place to showcase your LinkedIn, GitHub projects, case studies, and professional brand.  
 
+## Completed Webistes
+
+Shaheer Airaj Ahmed - https://shaheerairaj.com/
+
+Teslim Adeyanju - https://adeyanjuteslim.co.uk
+
+Patrick Githendu - https://studio--studio-7519770508-9de04.us-central1.hosted.app/
+
+Aditi Phadnis - https://aditis-ai-portfolio.web.app/
+
+Chiti Nkhuwa - https://chitinkhuwa.streamlit.app/
+
+Jun Leng Tan - https://billtan.org/
+
+Youssef Benihoud - https://www.ybenihoud.com/
 
 ## 🔀 Pathways to Choose From  
 
